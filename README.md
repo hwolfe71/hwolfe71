@@ -2,7 +2,7 @@
 
 ### I'm a CS grad.
 - I’m currently doing data processing with Visual Foxpro.
-- I'm interested in chess, Linux and C
+- I'm interested in chess, Linux, C and Rust.
 
 
 <!--
